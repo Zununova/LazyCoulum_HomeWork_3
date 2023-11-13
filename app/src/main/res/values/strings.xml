@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LazyCoulum(Row)</string>
+    <string name="data">%1s - %2s %3s %4s</string>
+</resources>
